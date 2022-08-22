@@ -1,0 +1,15 @@
+{
+    "name": "mauro/test_module",
+    "autoload": {
+        "psr-4": {
+            "Mauro\\TestModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mauro Piston",
+            "email": "mauro.piston@tiendamia.com"
+        }
+    ],
+    "require": {}
+}
